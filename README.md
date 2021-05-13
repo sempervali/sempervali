@@ -8,7 +8,7 @@
 > 
 > While I have worked on it in the past, I do NOT enjoy working on HTML, CSS, or Javascript. 
 
-For anyone who wants to know: My pronouns are He/Him/They/Them (I'm not picky on hwo most people refer to me.)
+For anyone who wants to know: My pronouns are He/Him/They/Them (I'm not picky on how most people refer to me.)
 <!--
 **bloxythefox/bloxythefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
