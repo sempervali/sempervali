@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello
 
+# I'm a small coder who works on projects in their spare time.
+
+> Anything here is likely either a passion project, or a School related project.
+> 
+> I prefer coding in Java, but look forward to learning C and other similar languages.
+> 
+> While I have worked on it in the past, I do NOT enjoy working on HTML, CSS, or Javascript. 
+
+For anyone who wants to know: My pronouns are He/Him/They/Them (I'm not picky on hwo most people refer to me.)
 <!--
 **bloxythefox/bloxythefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
