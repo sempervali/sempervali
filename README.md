@@ -1,25 +1,10 @@
-### Hello
+### Hey there!
 
-# I'm a small coder who works on projects in their spare time.
+ I'm just a random Avali coder who works on projects in their spare time.
+ See something you like? Contributions are appreciated, and especially would love to know how it has helped you
 
-> Anything here is likely either a passion project, or a School related project.
+> Generally I work on passion projects, though some you see here may have been from my time in high school.
 > 
-> I prefer coding in Java, but look forward to learning C and other similar languages.
+> I have mostly worked within Java; more recently I have begun tinkering with Python and (Bash) Shell Scripting.
 > 
 > While I have worked on it in the past, I do NOT enjoy working on HTML, CSS, or Javascript. 
-
-For anyone who wants to know: My pronouns are He/Him/They/Them (I'm not picky on how most people refer to me.)
-<!--
-**bloxythefox/bloxythefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
